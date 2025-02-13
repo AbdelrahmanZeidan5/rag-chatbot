@@ -1,0 +1,24 @@
+[
+    {
+      "name": "The Shadow Spiral",
+      "discovery_year": 2088,
+      "location": "Andromeda Galaxy",
+      "description": "A massive spiral structure composed entirely of dark matter, absorbing all light around it.",
+      "theories": ["Remnant of an ancient supermassive black hole", "Intergalactic dark matter storm"]
+    },
+    {
+      "name": "Quantum Nebula",
+      "discovery_year": 2095,
+      "location": "NGC 4501",
+      "description": "A nebula that emits unpredictable quantum fluctuations, disrupting spacecraft electronics.",
+      "theories": ["Evidence of extra-dimensional physics", "Naturally occurring wormhole formation"]
+    },
+    {
+      "name": "The Infinity Echo",
+      "discovery_year": 2112,
+      "location": "Unknown Deep Space",
+      "description": "A repeating radio signal that loops every 48 hours with no known origin.",
+      "theories": ["Message from an extinct alien civilization", "Echo of the Big Bang still bouncing across spacetime"]
+    }
+  ]
+  

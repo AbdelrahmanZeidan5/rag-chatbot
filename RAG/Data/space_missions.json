@@ -1,0 +1,17 @@
+[
+    {
+      "mission_name": "Nova Pioneer",
+      "launch_year": 2080,
+      "destination": "Europa (Moon of Jupiter)",
+      "objective": "Drill beneath the icy surface to explore subsurface ocean for signs of life.",
+      "status": "Awaiting launch approval"
+    },
+    {
+      "mission_name": "Voyager X",
+      "launch_year": 2093,
+      "destination": "Intergalactic space beyond the Milky Way",
+      "objective": "Send a probe outside the galaxy to collect data on extragalactic cosmic radiation.",
+      "status": "In development phase"
+    }
+  ]
+  

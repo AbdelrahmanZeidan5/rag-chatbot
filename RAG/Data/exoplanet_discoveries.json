@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Zyphos-9b",
+      "discovery_year": 2073,
+      "distance_light_years": 452,
+      "planet_type": "Gas Giant",
+      "atmosphere": "Methane, Ammonia, Hydrogen",
+      "temperature_celsius": -120,
+      "notable_feature": "Possesses an enormous aurora visible across half of its surface."
+    },
+    {
+      "name": "Kelvoria Prime",
+      "discovery_year": 2091,
+      "distance_light_years": 812,
+      "planet_type": "Super-Earth",
+      "atmosphere": "Oxygen, Nitrogen, Traces of Argon",
+      "temperature_celsius": 27,
+      "notable_feature": "Has vast oceans with suspected microbial life signatures."
+    },
+    {
+      "name": "Vortex-77c",
+      "discovery_year": 2104,
+      "distance_light_years": 620,
+      "planet_type": "Ice World",
+      "atmosphere": "Carbon Dioxide, Helium, Hydrogen",
+      "temperature_celsius": -220,
+      "notable_feature": "Contains frozen methane lakes that glow under ultraviolet light."
+    }
+  ]
+  
